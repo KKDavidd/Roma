@@ -1,0 +1,79 @@
+body {
+    overflow-x: clip;
+    font-family: 'Georgia', serif;
+    background-color: #eee5db;
+}
+
+.igen {
+    color: green;
+}
+
+.nem {
+    color: red;
+}
+
+td {
+    padding-right: 10px;
+}
+
+.hotel {
+    display: flex;
+}
+
+footer {
+    background-color: #6c757d;
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+
+.card {
+    border: none;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin: 10px;
+    padding-top: 10px;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-bottom: 10px;
+}
+
+.card img {
+    border-bottom: 3px solid #6c757d;
+}
+
+.card-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+    color: #495057;
+}
+
+.card-text {
+    font-size: 1rem;
+    color: #6c757d;
+}
+
+.btn-primary {
+    background-color: #6c757d;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #5a6268;
+}
+
+footer {
+    background-color: #6c757d;
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+
+div.row {
+    justify-content: center;
+}
+
+.csillag {
+    color: #ffc400;
+}

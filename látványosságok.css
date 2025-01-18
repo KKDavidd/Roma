@@ -1,0 +1,32 @@
+body{
+    font-family: 'Georgia', serif;
+    background-color: #eee5db;
+}
+
+header {
+    background-color: #6c757d;
+    color: white;
+    text-align: center;
+    padding: 1.6rem 0;
+}
+
+.card-text {
+    font-size: 1rem;
+    color: #6c757d;
+}
+
+.card {
+    border: none;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.card img {
+    border-bottom: 3px solid #84855e;
+}
+
+h5 {
+    font-size: 1.6rem;
+    margin: 0;
+}
