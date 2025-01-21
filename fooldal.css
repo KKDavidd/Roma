@@ -28,12 +28,11 @@ header {
     border-radius: 12px;
     overflow: hidden;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    margin: 1px;
-    padding: 0;
-}
-
-.card img {
-    border-bottom: 3px solid #84855e;
+    margin: 10px;
+    padding-top: 10px;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-bottom: 10px;
 }
 
 h5 {
@@ -65,18 +64,6 @@ h1 {
     padding: 1rem;
 }
 
-.card {
-    border: none;
-    border-radius: 10px;
-    overflow: hidden;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    margin: 10px;
-    padding-top: 10px;
-    padding-right: 15px;
-    padding-left: 15px;
-    padding-bottom: 10px;
-}
-
 .card img {
     border-bottom: 3px solid #6c757d;
 }
@@ -85,11 +72,7 @@ h1 {
     font-size: 1.25rem;
     font-weight: bold;
     color: #495057;
-}
-
-.card-text {
-    font-size: 1rem;
-    color: #6c757d;
+    text-decoration: underline 2px;
 }
 
 .btn-primary {

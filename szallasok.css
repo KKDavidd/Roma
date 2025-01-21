@@ -55,6 +55,7 @@ footer {
 }
 
 .btn-primary {
+    margin-top: 10px;
     background-color: #6c757d;
     border: none;
 }
